@@ -16,5 +16,5 @@ https://www.facebook.com/groups/556572094697033/
  
  <img src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Rev.A.jpg" data-canonical-src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Rev.A.jpg" width="500"/>
   
-  <img src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Connectors.png" data-canonical-src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Connectors.png" width="500"/>
+  <img src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Connectors.png" data-canonical-src="https://github.com/QWaveSystems/MEGO/blob/master/MEGO%20Connectors.png" width="250"/>
 
